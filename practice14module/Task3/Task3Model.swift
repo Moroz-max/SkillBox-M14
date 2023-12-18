@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+struct NewsWithLocationModel {
+    let name: String
+    let description: String
+    let location: String
+}
